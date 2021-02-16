@@ -10,6 +10,6 @@ char letter = 'A';
 printf(" The Number is  %d\n", num);
 printf(" The Letter is %c\n ", letter);
 /* if you done creerct you will get bellow message */
-printf("Yay Good Job..., You Are Rocking It!!");
+printf("Yay Good Job..., You Are Rocking It!!!");
 return 0;
 }
