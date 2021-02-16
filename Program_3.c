@@ -8,6 +8,6 @@ char c = '#';
 
 //if you write correct code fallowing output will print
 printf("The Assigned Character is %c\n",c);
-printf("Good job..");
+printf("Good job..!!");
 return 0;
 }
