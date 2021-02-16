@@ -14,14 +14,14 @@ int main()
 
     //Write your code here
 
-    printf("The Value of a and b before swapping is %d %d\n", a, b);
+    printf(" The Value of a and b before swapping is %d %d\n", a, b);
     
     temp = a;
     a = b;
     b = temp;
 
 
-    printf("The Value of a and b after swapping is %d %d\n", a, b);
+    printf(" The Value of a and b after swapping is %d %d\n", a, b);
     
     return 0;
 }
