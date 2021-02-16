@@ -13,8 +13,10 @@ int L1, L2;
 L1 = 10;
 L2 = 20;
 
-printf("The Value of L1 is %d\n", L1);
-printf("The Value of L2 is %d\n", L2);
+printf(" The Value of L1 is %d\n", L1);
+printf(" The Value of L2 is %d\n", L2);
 
 return 0;
+
+
 }
